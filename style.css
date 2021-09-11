@@ -1,0 +1,63 @@
+body{
+  
+    padding-top: 550px;
+    text-align: center;
+    margin: 0;
+}
+#welcome{
+    position: absolute;
+    bottom: 0;
+    background: lightseagreen;
+    display: table;
+    height: 100%;
+    width: 100%;
+}
+h1{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;
+}
+h2{
+    font-size: 40px;
+    font-family: fantasy;
+    font-weight: 300;  
+}
+#Bio{
+    font-family: cursive;
+    padding: 50px;
+}
+.navbar{
+   background-color: white;
+    position: sticky;
+    top: 0;
+    
+    z-index: 99999;
+    
+    
+
+}
+
+.parrelex-inner{
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.profile{
+    border-radius: 50%;
+}
+#contact{
+    background-color: thistle ;
+
+}
+.contact2 h3{
+display: inline;
+
+}
+.movie_head{
+    font-size: 20px;
+    padding: 6px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 10px;
+    display: inline-block;
+}
